@@ -21,7 +21,7 @@ To run this project locally, follow these steps:
 1. Clone the repository: `gh repo clone Karthik9273/Machine Learning project`
 2. Install the required libraries: `If you're using Google Colab, you don't need to pip install. Just follow the importing the dependencies section.`
 3. Launch Google Colab: `https://colab.research.google.com/`
-4. Open the `Gold_Price_Prediction.ipynb` file and run the notebook cells sequentially.
+4. Open the `Machine Learning project.ipynb` file and run the notebook cells sequentially.
 
 
 ## Conclusion
